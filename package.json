@@ -1,12 +1,23 @@
 {
-  "name": "platzidate",
+  "name": "platzidate-andresflorez",
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["date", "nodejs"],
+  "keywords": [
+    "date",
+    "nodejs"
+  ],
   "author": "andres Florez <florezandresfelipe62@gmail.com>",
   "license": "MIT",
-  "description": "Una utilidad para manejar fechas en formato timestamp y long time."
+  "description": "Una utilidad para manejar fechas en formato timestamp y long time.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresflorez1234/Paquete-de-NPM-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andresflorez1234/Paquete-de-NPM-/issues"
+  },
+  "homepage": "https://github.com/andresflorez1234/Paquete-de-NPM-#readme"
 }
