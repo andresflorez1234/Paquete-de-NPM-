@@ -1,9 +1,9 @@
-# Paqute npm
+# NPM Package
 
-Una utilidad para manejar fechas en formato timestamp y long time.
+A utility to handle dates in timestamp and long-time formats.
 
 # Install
 
 ```bash
 npm install platzidate
-```
+
